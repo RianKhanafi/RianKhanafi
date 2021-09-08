@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is ### Rian KHanafi
-⚡ I'am Fullstack Developer
+My name is **Rian KHanafi**
+⚡ I'am Fullstack Javascript Developer
 
 <!--
 **RianKhanafi/RianKhanafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
