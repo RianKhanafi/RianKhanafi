@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is **Rian KHanafi**
+My name is **Rian Khanafi**
 ⚡ I'am Fullstack Javascript Developer
 
 <!--
