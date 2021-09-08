@@ -1,7 +1,7 @@
 ### Hi there 👋
-My name is **Rian Khanafi**__
-⚡ I'am Fullstack Javascript Developer__
-<br/>
+My name is **Rian Khanafi**  
+⚡ I'am Fullstack Javascript Developer  
+  
 
 
 
