@@ -2,6 +2,10 @@
 My name is **Rian Khanafi**
 ⚡ I'am Fullstack Javascript Developer
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RianKhanafi&show_icons=true&theme=radical)
+
 <!--
 **RianKhanafi/RianKhanafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
