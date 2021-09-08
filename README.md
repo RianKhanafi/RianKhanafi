@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is **Rian Khanafi**  
-:computer:I'am Software Engineer who specialize in **Frontend**, I somethimes also work on the backend side, using Express.js or Laravel.
+:computer: I'am Software Engineer who specialize in **Frontend**, I somethimes also work on the backend side, using Express.js or Laravel
+
+<br/>
   
 
 
