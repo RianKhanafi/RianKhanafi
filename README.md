@@ -1,6 +1,9 @@
 ### Hi there 👋
 My name is **Rian Khanafi**  
-:computer: I'am Software Engineer who specialize in **Frontend**, I somethimes also work on the backend side, using Express.js or Laravel
+:computer: A Frontend Developer who has experience of more than 2 years, in building
+websites, like designs, user interface and backend. I am active in Frontend
+Developer using React.js and Next.js. Now I'm interested learn deeply about
+UI/UX
 
 <br/>
   
