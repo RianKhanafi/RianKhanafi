@@ -9,8 +9,9 @@ UI/UX
   
 
 
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RianKhanafi&show_icons=true&theme=dracula&title_color=#ffffff)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
